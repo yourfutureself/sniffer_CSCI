@@ -1,9 +1,0 @@
-
-Header:
-----Version:4
-----Header size: 5----Service: 0
-----Service: 44
-----ID: 15484
-----TTL: 128
-----Protocol : 6
-----Checksum : 8500
